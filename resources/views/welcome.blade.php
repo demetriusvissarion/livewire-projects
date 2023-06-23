@@ -1,3 +1,4 @@
-<x-app-layout>
+<x-app-layouts>
     <livewire:counter />
-</x-app-layout>
+    {{-- <livewire:calculator /> --}}
+</x-app-layouts>
